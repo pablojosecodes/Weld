@@ -1,0 +1,3 @@
+[submodule "Weld-Frontend"]
+	path = Weld-Frontend
+	url = git@github.com:pablojosecodes/Weld-Frontend.git
